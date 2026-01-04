@@ -1,4 +1,3 @@
-## Hi there 👋
 
 <!--
 **bdhadage23/bdhadage23** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -50,13 +49,13 @@ Here are some ideas to get you started:
 
 
 
-💼 **5+**
+💼 **5+ YOE**
 
 
 🌱 Currently learning ** Always learning and exploring new technologies**
 
 
-🎓 Certifications: **ISTQB, AWS**
+🎓 Certifications: **ISTQB, AWS Solutions Architect Associate**
 
 
 📦 **3** repositories
@@ -76,7 +75,7 @@ Here are some ideas to get you started:
 
 
 ---
-
+<!--
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Fire.png" alt="Fire" width="30" height="30" /> GitHub Analytics
 
 <div align="center">
@@ -94,7 +93,7 @@ Here are some ideas to get you started:
 </div>
 
 ---
-
+-->
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Hammer%20and%20Wrench.png" alt="Skills" width="30" height="30" /> Tech Stack
 
 <table>
