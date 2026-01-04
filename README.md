@@ -52,7 +52,7 @@ Here are some ideas to get you started:
 💼 **5+ YOE**
 
 
-🌱 Currently learning ** Always learning and exploring new technologies**
+🌱 Currently learning **Always learning and exploring new technologies**
 
 
 🎓 Certifications: **ISTQB, AWS Solutions Architect Associate**
