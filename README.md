@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 
 <!-- TYPING ANIMATION -->
 <a href="https://github.com/bdhadage23">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=88C0D0&center=true&vCenter=true&repeat=true&width=800&height=45&lines=Always%20%20Learning%20New%20Tech%20✨%20" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=88C0D0&center=true&vCenter=true&repeat=true&width=800&height=45&lines=Always%20%20Learning%20New%20Tech%20%20%E2%9C%A8" alt="Typing SVG" />
 </a>
 
 <!-- PROFILE BADGES -->
