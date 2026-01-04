@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 
 <!-- TYPING ANIMATION -->
 <a href="https://github.com/bdhadage23">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=88C0D0&center=true&vCenter=true&repeat=true&width=800&height=45&lines=Always%20%20Learning%20New%20Tech%20%20" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=88C0D0&center=true&vCenter=true&repeat=true&width=800&height=45&lines=Always%20%20Learning%20New%20Tech%20✨%20" alt="Typing SVG" />
 </a>
 
 <!-- PROFILE BADGES -->
@@ -45,7 +45,7 @@ Here are some ideas to get you started:
 
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20professions/Man%20Technologist%20Light%20Skin%20Tone.png" alt="Technologist" width="30" height="30" /> About Me
 
-<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bdhadage23&layout=compact&theme=nord&hide_border=true&bg_color=0d1117&langs_count=8" width="320" alt="Top Languages"/>
+<!-- <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bdhadage23&layout=compact&theme=nord&hide_border=true&bg_color=0d1117&langs_count=8" width="320" alt="Top Languages"/> -->
 
 
 
@@ -87,7 +87,7 @@ Here are some ideas to get you started:
   <img src="https://streak-stats.demolab.com?user=bdhadage23&theme=nord&hide_border=true&background=0d1117&stroke=88c0d0&ring=88c0d0&fire=ff6b6b&currStreakLabel=88c0d0" alt="GitHub Streak"/>
 </div>
 
-<!-- GitHub Trophies -->
+
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=bdhadage23&theme=nord&no-frame=true&no-bg=true&column=7&margin-w=5" alt="Trophy"/>
 </div>
